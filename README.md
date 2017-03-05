@@ -1,2 +1,2 @@
-# OS_CLASS_PROJECTS
+# OS CLASS PROJECTS
 All the projects required in this year Operating systems class exist here
