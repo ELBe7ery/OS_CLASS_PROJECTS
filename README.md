@@ -1,5 +1,3 @@
-# Abdelrahman Elbehery
-## Section 2
 ## Operating Systems Scheduler Assignment [Supports all the scheduling algorithms]
 
 
